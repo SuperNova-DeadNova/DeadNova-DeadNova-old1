@@ -5,3 +5,7 @@ See MCGalaxy ReadMe for help: [MCGalaxy 1.9.3.9 README](https://github.com/Unkno
 Download MCGalaxy 1.9.3.9 [from here](https://github.com/UnknownShadow200/MCGalaxy/releases/tag/1.9.3.9).
 
 Download the latest MCGalaxy release [from here](https://github.com/UnknownShadow200/MCGalaxy/releases).
+
+Actual repository is [here](https://github.com/RandomStrangers/DeadNova).
+
+This is just a copy of the code for older version to be able to update.
